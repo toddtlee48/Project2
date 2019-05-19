@@ -2,8 +2,7 @@
 Treehouse Techdegree:
 FSJS project 2 - List Filter and Pagination
 ******************************************/
-
-// global variables
+//Global Variables
 const studentsList = document.querySelectorAll(".student-item");
 const numOfPages = Math.ceil(studentsList.length / 10);
 
